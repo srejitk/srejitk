@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'm Sreejith K</h1>
+<h1 align="center">Hi there 👋 I'm Sreejith K</h1>
 <h3 align="center">An ambitious Full Stack Web Developer from Mysore, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srejitk&label=Profile%20views&color=0f56b3&?style=for-the-badge" alt="srejitk" /> </p>
