@@ -7,10 +7,9 @@
 
 <h3>Here are some facts about me:</h3>
 
-- 👩‍🎓 B.Engg degree in Mechanical Engg.
+- 👩‍🎓 Crafting products at Omniflo
 - 🧠 Developer born in the Pandemic (2020)
 - 👩‍💻 Web dev enthusiast, Running on caffeine
-- 🌱 Learning to build with **React**
 
 
 <h3>Find out about my professional life here:</h3>
